@@ -15,7 +15,7 @@ API means Application Programming Interface, this explains absolutely nothing. I
 
 Now what is Rest API? Rest means, Representational state transfer. Its basically an API that talks using HTTP requests, or in short, API that talks over the internet. This is the most commonly used API architecture in software engineering applications nowadays.
 
-So basically a Restful API takes in HTTP requests from a remote location, and sends in responses. Responses have a HTTP Status code with them as well which indicate what type of response we are receiving. A successful response will usually have 200, 201 or similar 2xx responses. 404, 402, 403 are error that indicate different types of errors like "Not Found", "Forbidden" etc. But I think the best way of explaining this concept is to use a random api.
+So basically a Restful API takes in HTTP requests from a remote location, and sends in responses. Responses have a HTTP Status code with them as well which indicate what type of response we are receiving. A successful response will usually have `200`, `201` or similar `2xx` responses. `404`, `402`, `403` are error that indicate different types of errors like `Not Found`, `Forbidden` etc. But I think the best way of explaining this concept is to use a random api.
 
 Basically we have a client that sends request to a server, the server serves the client with a response.
 
@@ -58,4 +58,4 @@ Entering this in our web browser will show this (Try it!)
 ```
 This is a response that we received from the `https://random-data-api.com` server and the endpoint that we used to get the data was `/api/address/random_address/`. Here `https://random-data-api.com` is called the base url.
 
-This video is getting too long, so lets end it here today. On next episode we'll make our own api and send other types of requests and see how they work! :) Thanks for reading.
+This post is getting too long, so lets end it here today. On next episode we'll make our own api and send other types of requests and see how they work! :) Thanks for reading.
