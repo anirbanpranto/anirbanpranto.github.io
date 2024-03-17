@@ -1,0 +1,4 @@
+baseURL = 'https://anirbanpranto.github.io/'
+languageCode = 'en-us'
+title = 'Anirban Thinks'
+theme = 'PaperMod'
