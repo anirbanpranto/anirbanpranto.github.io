@@ -2,3 +2,14 @@ baseURL = 'https://anirbanpranto.github.io/'
 languageCode = 'en-us'
 title = 'Anirban Thinks'
 theme = 'PaperMod'
+[params.homeInfoParams]
+Title = "Hi There!"
+Content = "I'm **Bala**, also known as **`bashketchum`** online. I graduated with a Data Science degree from [Multimedia University](https://en.wikipedia.org/wiki/Multimedia_University). Currently working on Machine Learning infrastructure and operations engineering at [Moneylion](https://www.moneylion.com/). Previously I interned at [Tapway](https://gotapway.com/) as an MLOps Engineer, built [ParcelDaily](https://www.parceldaily.com/) as their sole Backend Software Engineer, and did Machine Learning and Computer Vision research at [ViPr Lab](https://viprlab.github.io/). I like distributed systems, machine learning infrastructure and algorithms."
+
+[[params.socialIcons]]
+name = "Github"
+url = "https://github.com/anirbanpranto"
+
+[[params.socialIcons]]
+name = "X"
+url = "https://twitter.com/bashketchum02"
