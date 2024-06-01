@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anirban Thinks</title>
     <link>https://anirbanpranto.github.io/</link>
@@ -13,8 +13,7 @@
       <link>https://anirbanpranto.github.io/posts/new_blog/</link>
       <pubDate>Sun, 17 Mar 2024 16:55:50 +0800</pubDate>
       <guid>https://anirbanpranto.github.io/posts/new_blog/</guid>
-      <description>It is the end I am deprecating my previous blog site written with NextJS, because I don&amp;rsquo;t like writing javascript (or typescript). Plus its too much work to maintain a domain name, cloudflare dns etc. etc. just to write my garbage takes out loud on the internet.
-What have I been up to I have been working at Moneylion for the last few months in their Machine Learning team, focusing mainly on model serving infrastructure and engineering.</description>
+      <description>It is the end I am deprecating my previous blog site written with NextJS, because I don&amp;rsquo;t like writing javascript (or typescript). Plus its too much work to maintain a domain name, cloudflare dns etc. etc. just to write my garbage takes out loud on the internet.&#xA;What have I been up to I have been working at Moneylion for the last few months in their Machine Learning team, focusing mainly on model serving infrastructure and engineering.</description>
     </item>
   </channel>
 </rss>
