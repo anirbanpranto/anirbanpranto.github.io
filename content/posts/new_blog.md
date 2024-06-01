@@ -7,7 +7,7 @@ I am deprecating my previous blog site written with NextJS, because I don't like
 
 ## What have I been up to
 I have been working at [Moneylion](https://moneylion.com) for the last few months in their Machine Learning team, focusing mainly on model serving infrastructure and engineering. I have growing interest on distributed systems lately, so I've been
-reading a lot on distributed systems research, keeping up with the current developments in the field, and also seeking how that can be useful at my work. ( I also have girlfriend now ;) )
+reading a lot on distributed systems research, keeping up with the current developments in the field, and also seeking how that can be useful at my work. 
 
 
 
